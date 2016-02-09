@@ -9,19 +9,19 @@ The frameworks are listed by number of watchers, descending, as of March 18, 201
 
 | Framework              | Sponsor(s) / Author(s)                                | Watchers | Stars  |
 ------------------------:|-------------------------------------------------------|----------|--------|
-| [Meteor][meteor]       | [Meteor Development Group][meteorgroup]               | 973      | 11,687 |
-| [Express][express]     | [StrongLoop][strongloop] / [TJ Holowaychuk][tj]       | 828      | 12,824 |
-| [Sails][sails]         | [Mike McNeil][mikemcneil]                             | 485      | 5,582  |
-| [Koa][koa]             | [TJ Holowaychuk][tj]                                  | 232      | 3,160  |
-| [Derby][derby]         | [Nate Smith][natesmith] [Brian Noguchi][briannoguchi] | 213      | 3,079  |
+| [Meteor][meteor]       | [Meteor Development Group][meteorgroup]               | 1,862    | 31,901 |
+| [Express][express]     | [StrongLoop][strongloop] / [TJ Holowaychuk][tj]       | 1,344    | 22,940 |
+| [Sails][sails]         | [Mike McNeil][mikemcneil]                             | 790      | 13,403 |
+| [Koa][koa]             | [TJ Holowaychuk][tj]                                  | 526      | 8,855  |
+| [Derby][derby]         | [Nate Smith][natesmith] [Brian Noguchi][briannoguchi] | 200      | 3,940  |
 | [Kraken][kraken]       | [PayPal][paypal]                                      | 210      | 2,424  |
-| [Hapi][hapi]           | [Walmart Labs][walmart]                               | 204      | 1,981  |
-| [Connect][connect]     | [Sencha Labs][senchalabs]                             | 202      | 4,180  |
-| [LoopBack][loopback]   | [StrongLoop][strongloop]                              | 187      | 2,602  |
+| [Hapi][hapi]           | [Walmart Labs][walmart]                               | 238      | 3,767  |
+| [Connect][connect]     | [Sencha Labs][senchalabs]                             | 358      | 5,445  |
+| [LoopBack][loopback]   | [StrongLoop][strongloop]                              | 321      | 5,861  |
 | [Restify][restify]     | [Mark Cavage][markcavage]                             | 122      | 2,001  |
-| [Geddy][geddy]         | [Matthew Eernisse][mattheweernisse]                   | 101      | 1,703  |
-| [CompoundJS][compound] | [Anatoliy Chakkaev][1602]                             | 91       | 1,542  |
-| [Flatiron][flatiron]   | [Nodejitsu][nodejitsu]                                | 75       | 1,146  |
+| [Geddy][geddy]         | [Matthew Eernisse][mattheweernisse]                   | 196      | 4,574  |
+| [CompoundJS][compound] | [Anatoliy Chakkaev][1602]                             | 85       | 1,653  |
+| [Flatiron][flatiron]   | [Nodejitsu][nodejitsu]                                | 50       | 1,305  |
 
 ### Stack Integration
 
@@ -72,7 +72,7 @@ This is used to gauge complexity and modularity of a framework.
 |-----------:|----------------------|--------------|
 | Meteor     |                      |              |
 | Express    | 1,150                | 4.0.0-rc3    |
-| Sails      | 5,350                | 0.10.0-rc4   |
+| Sails      | 2,127                | 0.12.0       |
 | Koa        | 550                  | 0.5.1        |
 | Derby      | 1,450                | 0.6.0-alpha3 |
 | Kraken     | 680                  | 0.7.         |
